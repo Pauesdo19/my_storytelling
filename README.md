@@ -11,7 +11,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: minombre
 - :woman: minombre
-- :woman: minombre 
+- :woman: minombre
+- Paula Escalona Doña
 
 
 Proyecto (código): 
